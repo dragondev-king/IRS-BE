@@ -1,0 +1,2759 @@
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2015v2.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2016-08-29T15:59:11-05:00</ReturnTs>
+    <TaxPeriodEndDt>2015-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>954557617</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Harrington Group CPAs LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>234 East Colorado Blvd Suite M150</AddressLine1Txt>
+        <CityNm>Pasadena</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>91101</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2015-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>200253310</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Pasadena Community Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>PASA</BusinessNameControlTxt>
+      <PhoneNum>6267962097</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>301 E Colorado Blvd No 810</AddressLine1Txt>
+        <CityNm>Pasadena</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>91101</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Mariver Copeland</PersonNm>
+      <PersonTitleTxt>Director of Finance</PersonTitleTxt>
+      <PhoneNum>6267962097</PhoneNum>
+      <SignatureDt>2016-08-29</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Tonetta L Conner CPA</PreparerPersonNm>
+      <PTIN>P01775198</PTIN>
+      <PhoneNum>6264036801</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2015</TaxYr>
+    <BuildTS>2016-12-15 16:53:06Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <AmendedReturnInd>X</AmendedReturnInd>
+      <PrincipalOfficerNm>Jennifer DeVoll</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>301 E Colorado Blvd No 810</AddressLine1Txt>
+        <CityNm>Pasadena</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>91101</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>10284263</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>0</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>www.pasadenacf.org</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1953</FormationYr>
+      <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>Pasadena Community Foundation builds and preserves permanently endowed charitable funds, provides grants and assistance to nurture and strengthen community organizations, serves donors to meet their philanthropic goals and promotes and participates in community partnerships.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>16</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>16</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>5</TotalEmployeeCnt>
+      <TotalVolunteersCnt>2</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>8904101</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>5476441</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>0</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>0</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>1385462</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>1531961</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>14982</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>65041</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>10304545</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>7073443</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>4934568</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>3278564</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>0</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>454994</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>542128</CYSalariesCompEmpBnftPaidAmt>
+      <PYTotalProfFndrsngExpnsAmt>0</PYTotalProfFndrsngExpnsAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>273652</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>312384</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>338656</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>5701946</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>4159348</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>4602599</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>2914095</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>50699904</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>51919059</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>1658576</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>1813251</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>49041328</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>50105808</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>Pasadena Community Foundation builds and preserves permanently endowed charitable funds, provides grants and assistance to nurture and strengthen community organizations, serves donors to meet their philanthropic goals and promotes and participates in community partnerships. These grants include PCF, Donor Advised and Field of Interest Grants.</MissionDesc>
+      <SignificantNewProgramSrvcInd>0</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>0</SignificantChangeInd>
+      <ExpenseAmt>3701733</ExpenseAmt>
+      <GrantAmt>3278564</GrantAmt>
+      <Desc>Pasadena Community Foundation builds and preserves permanently endowed charitable funds, provides grants and assistance to nurture and strengthen community organizations, serves donors to meet their philanthropic goals and promotes and participates in community partnerships. These grants include PCF, Donor Advised and Field of Interest Grants.</Desc>
+      <TotalProgramServiceExpensesAmt>3701733</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc1039100001">1</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="RetDoc1234500001">1</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>0</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>0</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>0</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc1039900001">1</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc1039900001">0</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc1039900001">0</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc1039900001">0</CreditCounselingInd>
+      <TempOrPermanentEndowmentsInd referenceDocumentId="RetDoc1039900001">1</TempOrPermanentEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc1039900001">0</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc1039900001">0</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc1039900001">0</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc1039900001">0</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc1039900001">1</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc1039900001">1</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc1039900001">1</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc1039900001">0</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <ForeignOfficeInd>0</ForeignOfficeInd>
+      <ForeignActivitiesInd>0</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>0</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>0</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>0</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>0</FundraisingActivitiesInd>
+      <GamingActivitiesInd>0</GamingActivitiesInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <GrantsToOrganizationsInd referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd referenceDocumentId="RetDoc1041900001">1</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd referenceDocumentId="RetDoc1042400001">1</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>0</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>0</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>0</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>0</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>0</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>0</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>0</BusinessRlnWithFamMemInd>
+      <BusinessRlnWithOfficerEntInd>0</BusinessRlnWithOfficerEntInd>
+      <DeductibleNonCashContriInd referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd referenceDocumentId="RetDoc1042900001">0</DeductibleArtContributionInd>
+      <TerminateOperationsInd>0</TerminateOperationsInd>
+      <PartialLiquidationInd>0</PartialLiquidationInd>
+      <DisregardedEntityInd>0</DisregardedEntityInd>
+      <RelatedEntityInd>0</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>0</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>0</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd>0</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>1</ScheduleORequiredInd>
+      <IRPDocumentCnt>4</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <BackupWthldComplianceInd>1</BackupWthldComplianceInd>
+      <EmployeeCnt>5</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>1</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>0</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>0</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>0</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>0</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+      <DAFExcessBusinessHoldingsInd>1</DAFExcessBusinessHoldingsInd>
+      <TaxableDistributionsInd>1</TaxableDistributionsInd>
+      <DistributionToDonorInd>1</DistributionToDonorInd>
+      <IndoorTanningServicesInd>0</IndoorTanningServicesInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>16</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>16</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>0</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>0</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>0</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>0</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>0</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>0</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>0</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>1</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>1</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>0</OfficerMailingAddressInd>
+      <LocalChaptersInd>0</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>1</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>1</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>1</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>1</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>1</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>1</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>1</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>0</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>0</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <OtherWebsiteInd>X</OtherWebsiteInd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>Pasadena Community Foundation Office</BusinessNameLine1Txt>
+        </BusinessName>
+        <PhoneNum>6267962097</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>301 E Colorado Blvd No 810</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>David Davis</PersonNm>
+        <TitleTxt>Chair</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Judy Gain</PersonNm>
+        <TitleTxt>Vice Chair</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Eddie Newman</PersonNm>
+        <TitleTxt>Secretary</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Ann Barrett</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Dave Beringer</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Priscilla Gamb</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Peter McAniff</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Margaret Mgrublian</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Wendy Munger</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Eddie Newman</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Chris Orndorff</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Fran Scoble</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Michael Schneickert</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Les Stocker</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Phil Swan</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Michelle Tyson</PersonNm>
+        <TitleTxt>Board Member</TitleTxt>
+        <AverageHoursPerWeekRt>0.30</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Jennifer DeVoll</PersonNm>
+        <TitleTxt>Executive Director</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>151049</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>41292</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Mariver Copeland</PersonNm>
+        <TitleTxt>Director of Finance</TitleTxt>
+        <AverageHoursPerWeekRt>30.00</AverageHoursPerWeekRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>87079</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>12325</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>238128</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>53617</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>1</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>0</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>1</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>0</CompensationFromOtherSrcsInd>
+      <CntrctRcvdGreaterThan100KCnt>0</CntrctRcvdGreaterThan100KCnt>
+      <AllOtherContributionsAmt>5476441</AllOtherContributionsAmt>
+      <NoncashContributionsAmt>3790762</NoncashContributionsAmt>
+      <TotalContributionsAmt>5476441</TotalContributionsAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>1529725</TotalRevenueColumnAmt>
+        <ExclusionAmt>1529725</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <GrossAmountSalesAssetsGrp>
+        <SecuritiesAmt>3213056</SecuritiesAmt>
+      </GrossAmountSalesAssetsGrp>
+      <LessCostOthBasisSalesExpnssGrp>
+        <SecuritiesAmt>3210820</SecuritiesAmt>
+      </LessCostOthBasisSalesExpnssGrp>
+      <GainOrLossGrp>
+        <SecuritiesAmt>2236</SecuritiesAmt>
+      </GainOrLossGrp>
+      <NetGainOrLossInvestmentsGrp>
+        <TotalRevenueColumnAmt>2236</TotalRevenueColumnAmt>
+        <ExclusionAmt>2236</ExclusionAmt>
+      </NetGainOrLossInvestmentsGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Management Fund Fees</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>45000</TotalRevenueColumnAmt>
+        <ExclusionAmt>45000</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Agency Fund Fees</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>16604</TotalRevenueColumnAmt>
+        <ExclusionAmt>16604</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Miscellaneous</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>3437</TotalRevenueColumnAmt>
+        <ExclusionAmt>3437</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>65041</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>7073443</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>0</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>0</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>1597002</ExclusionAmt>
+      </TotalRevenueGrp>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>3253564</TotalAmt>
+        <ProgramServicesAmt>3253564</ProgramServicesAmt>
+      </GrantsToDomesticOrgsGrp>
+      <GrantsToDomesticIndividualsGrp>
+        <TotalAmt>25000</TotalAmt>
+        <ProgramServicesAmt>25000</ProgramServicesAmt>
+      </GrantsToDomesticIndividualsGrp>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>291743</TotalAmt>
+        <ProgramServicesAmt>260554</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>6140</ManagementAndGeneralAmt>
+        <FundraisingAmt>25049</FundraisingAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>190353</TotalAmt>
+        <ProgramServicesAmt>20535</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>45082</ManagementAndGeneralAmt>
+        <FundraisingAmt>124736</FundraisingAmt>
+      </OtherSalariesAndWagesGrp>
+      <PensionPlanContributionsGrp>
+        <TotalAmt>15708</TotalAmt>
+        <ProgramServicesAmt>5442</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>4117</ManagementAndGeneralAmt>
+        <FundraisingAmt>6149</FundraisingAmt>
+      </PensionPlanContributionsGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>11949</TotalAmt>
+        <ProgramServicesAmt>3277</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>3671</ManagementAndGeneralAmt>
+        <FundraisingAmt>5001</FundraisingAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>32375</TotalAmt>
+        <ProgramServicesAmt>18402</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>3749</ManagementAndGeneralAmt>
+        <FundraisingAmt>10224</FundraisingAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>1915</TotalAmt>
+        <ProgramServicesAmt>1915</ProgramServicesAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>12500</TotalAmt>
+        <ManagementAndGeneralAmt>12500</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForSrvcInvstMgmntFeesGrp>
+        <TotalAmt>50634</TotalAmt>
+        <ManagementAndGeneralAmt>50634</ManagementAndGeneralAmt>
+      </FeesForSrvcInvstMgmntFeesGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>2950</TotalAmt>
+        <ProgramServicesAmt>2950</ProgramServicesAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>35245</TotalAmt>
+        <FundraisingAmt>35245</FundraisingAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>108185</TotalAmt>
+        <ProgramServicesAmt>58945</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>26025</ManagementAndGeneralAmt>
+        <FundraisingAmt>23215</FundraisingAmt>
+      </OfficeExpensesGrp>
+      <OccupancyGrp>
+        <TotalAmt>53683</TotalAmt>
+        <ProgramServicesAmt>30514</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>6216</ManagementAndGeneralAmt>
+        <FundraisingAmt>16953</FundraisingAmt>
+      </OccupancyGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>21260</TotalAmt>
+        <ProgramServicesAmt>10630</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>10630</ManagementAndGeneralAmt>
+      </ConferencesMeetingsGrp>
+      <InsuranceGrp>
+        <TotalAmt>9431</TotalAmt>
+        <ProgramServicesAmt>5308</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1106</ManagementAndGeneralAmt>
+        <FundraisingAmt>3017</FundraisingAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>Membership dues</Desc>
+        <TotalAmt>23488</TotalAmt>
+        <ProgramServicesAmt>4697</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>14093</ManagementAndGeneralAmt>
+        <FundraisingAmt>4698</FundraisingAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Event expense</Desc>
+        <TotalAmt>19365</TotalAmt>
+        <FundraisingAmt>19365</FundraisingAmt>
+      </OtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>4159348</TotalAmt>
+        <ProgramServicesAmt>3701733</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>183963</ManagementAndGeneralAmt>
+        <FundraisingAmt>273652</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>79649</BOYAmt>
+        <EOYAmt>164687</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>518722</BOYAmt>
+        <EOYAmt>1471346</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <PledgesAndGrantsReceivableGrp>
+        <BOYAmt>19420</BOYAmt>
+        <EOYAmt>2500</EOYAmt>
+      </PledgesAndGrantsReceivableGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>19691</BOYAmt>
+        <EOYAmt>19490</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <LandBldgEquipCostOrOtherBssAmt>0</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>0</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsPubTradedSecGrp>
+        <BOYAmt>49962941</BOYAmt>
+        <EOYAmt>50205912</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>99481</BOYAmt>
+        <EOYAmt>55124</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>50699904</BOYAmt>
+        <EOYAmt>51919059</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>43581</BOYAmt>
+        <EOYAmt>111579</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>1614995</BOYAmt>
+        <EOYAmt>1701672</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>1658576</BOYAmt>
+        <EOYAmt>1813251</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+      <UnrestrictedNetAssetsGrp>
+        <BOYAmt>33478343</BOYAmt>
+        <EOYAmt>33764448</EOYAmt>
+      </UnrestrictedNetAssetsGrp>
+      <TemporarilyRstrNetAssetsGrp>
+        <BOYAmt>4968088</BOYAmt>
+        <EOYAmt>5076648</EOYAmt>
+      </TemporarilyRstrNetAssetsGrp>
+      <PermanentlyRstrNetAssetsGrp>
+        <BOYAmt>10594897</BOYAmt>
+        <EOYAmt>11264712</EOYAmt>
+      </PermanentlyRstrNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>49041328</BOYAmt>
+        <EOYAmt>50105808</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>50699904</BOYAmt>
+        <EOYAmt>51919059</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <InfoInScheduleOPartXIInd>X</InfoInScheduleOPartXIInd>
+      <ReconcilationRevenueExpnssAmt>2914095</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>-1805257</NetUnrlzdGainsLossesInvstAmt>
+      <OtherChangesInNetAssetsAmt>-44357</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>0</AccountantCompileOrReviewInd>
+      <FSAuditedInd>1</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <SeparateBasisFinclStmtInd>X</SeparateBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>1</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>0</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>3788413</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>7849177</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>9023417</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>8904101</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>5476441</CurrentTaxYearAmt>
+        <TotalAmt>35041549</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>3788413</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>7849177</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>9023417</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>8904101</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>5476441</CurrentTaxYearAmt>
+        <TotalAmt>35041549</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <SubstantialContributorsTotAmt>4847064</SubstantialContributorsTotAmt>
+      <PublicSupportTotal170Amt>30194485</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>466519</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>602390</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>971882</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>1385462</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>-2236</CurrentTaxYearAmt>
+        <TotalAmt>3424017</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <OtherIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>36470</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>9369</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>16146</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>14982</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>65041</CurrentTaxYearAmt>
+        <TotalAmt>142008</TotalAmt>
+      </OtherIncome170Grp>
+      <TotalSupportAmt>38607574</TotalSupportAmt>
+      <PublicSupportCY170Pct>0.78210</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.83430</PublicSupportPY170Pct>
+      <ThirtyThrPctSuprtTestsCY170Ind>X</ThirtyThrPctSuprtTestsCY170Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1039900001">
+      <DonorAdvisedFundsHeldCnt>173</DonorAdvisedFundsHeldCnt>
+      <FundsAndOtherAccountsHeldCnt>123</FundsAndOtherAccountsHeldCnt>
+      <DonorAdvisedFundsContriAmt>3611716</DonorAdvisedFundsContriAmt>
+      <FundsAndOtherAccountsContriAmt>1864725</FundsAndOtherAccountsContriAmt>
+      <DonorAdvisedFundsGrantsAmt>2726082</DonorAdvisedFundsGrantsAmt>
+      <FundsAndOtherAccountsGrantsAmt>1067567</FundsAndOtherAccountsGrantsAmt>
+      <DonorAdvisedFundsVlEOYAmt>19829557</DonorAdvisedFundsVlEOYAmt>
+      <FundsAndOtherAccountsVlEOYAmt>32090376</FundsAndOtherAccountsVlEOYAmt>
+      <DisclosedOrgLegCtrlInd>1</DisclosedOrgLegCtrlInd>
+      <DisclosedForCharitablePrpsInd>1</DisclosedForCharitablePrpsInd>
+      <CYEndwmtFundGrp>
+        <BeginningYearBalanceAmt>32946419</BeginningYearBalanceAmt>
+        <ContributionsAmt>941865</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>-283120</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>1051669</OtherExpendituresAmt>
+        <AdministrativeExpensesAmt>28121</AdministrativeExpensesAmt>
+        <EndYearBalanceAmt>32525374</EndYearBalanceAmt>
+      </CYEndwmtFundGrp>
+      <CYMinus1YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>12636831</BeginningYearBalanceAmt>
+        <ContributionsAmt>19570975</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>1736451</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>966352</OtherExpendituresAmt>
+        <AdministrativeExpensesAmt>31486</AdministrativeExpensesAmt>
+        <EndYearBalanceAmt>32946419</EndYearBalanceAmt>
+      </CYMinus1YrEndwmtFundGrp>
+      <CYMinus2YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>9229298</BeginningYearBalanceAmt>
+        <ContributionsAmt>1728327</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>1690508</InvestmentEarningsOrLossesAmt>
+        <AdministrativeExpensesAmt>11302</AdministrativeExpensesAmt>
+        <EndYearBalanceAmt>12636831</EndYearBalanceAmt>
+      </CYMinus2YrEndwmtFundGrp>
+      <CYMinus3YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>5313832</BeginningYearBalanceAmt>
+        <ContributionsAmt>3382239</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>725329</InvestmentEarningsOrLossesAmt>
+        <GrantsOrScholarshipsAmt>166323</GrantsOrScholarshipsAmt>
+        <AdministrativeExpensesAmt>25779</AdministrativeExpensesAmt>
+        <EndYearBalanceAmt>9229298</EndYearBalanceAmt>
+      </CYMinus3YrEndwmtFundGrp>
+      <CYMinus4YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>5473223</BeginningYearBalanceAmt>
+        <ContributionsAmt>309761</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>-73223</InvestmentEarningsOrLossesAmt>
+        <GrantsOrScholarshipsAmt>333654</GrantsOrScholarshipsAmt>
+        <AdministrativeExpensesAmt>62275</AdministrativeExpensesAmt>
+        <EndYearBalanceAmt>5313832</EndYearBalanceAmt>
+      </CYMinus4YrEndwmtFundGrp>
+      <BoardDesignatedBalanceEOYPct>0.58700</BoardDesignatedBalanceEOYPct>
+      <PrmnntEndowmentBalanceEOYPct>0.34700</PrmnntEndowmentBalanceEOYPct>
+      <TermEndowmentBalanceEOYPct>0.06600</TermEndowmentBalanceEOYPct>
+      <EndowmentsHeldUnrelatedOrgInd>1</EndowmentsHeldUnrelatedOrgInd>
+      <EndowmentsHeldRelatedOrgInd>0</EndowmentsHeldRelatedOrgInd>
+      <TotalBookValueLandBuildingsAmt>0</TotalBookValueLandBuildingsAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>Agency Funds</Desc>
+        <Amt>1701672</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>1701672</TotalLiabilityAmt>
+      <FootnoteTextInd>X</FootnoteTextInd>
+      <TotalRevEtcAuditedFinclStmtAmt>5173195</TotalRevEtcAuditedFinclStmtAmt>
+      <NetUnrealizedGainsInvstAmt>-1805257</NetUnrealizedGainsInvstAmt>
+      <OtherRevenueAmt>-44357</OtherRevenueAmt>
+      <RevenueNotReportedAmt>-1849614</RevenueNotReportedAmt>
+      <RevenueSubtotalAmt>7022809</RevenueSubtotalAmt>
+      <InvestmentExpensesNotIncldAmt>50634</InvestmentExpensesNotIncldAmt>
+      <RevenueNotReportedFinclStmtAmt>50634</RevenueNotReportedFinclStmtAmt>
+      <TotalRevenuePerForm990Amt>7073443</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>4108715</TotExpnsEtcAuditedFinclStmtAmt>
+      <ExpensesNotReportedAmt>0</ExpensesNotReportedAmt>
+      <ExpensesSubtotalAmt>4108715</ExpensesSubtotalAmt>
+      <InvestmentExpensesNotIncld2Amt>50634</InvestmentExpensesNotIncld2Amt>
+      <ExpensesNotRptFinclStmtAmt>50634</ExpensesNotRptFinclStmtAmt>
+      <TotalExpensesPerForm990Amt>4159349</TotalExpensesPerForm990Amt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part V, Line 4:</FormAndLineReferenceDesc>
+        <ExplanationTxt>Certain unrestricted net assets have been designated by the Board of Directors to be maintained as quasi endowment fund for granting purposes. Generally accepted accounting principles provide that when the governing body of an organization, such as a community foundation, has the unilateral power to redirect the use of donors' contributions to another beneficiary, such contributions must be classified as unrestricted net assets. The Board of Directors of the Foundation has such power (variance power). However, the Board of Directors would exercise this authority if the stated purpose of a contribution is no longer applicable and incapable of fulfillment. It is the expressed intention of the Foundation to honor the designations of the donors. For purposes of complying with net asset accounting, this fund is included in unrestricted net assets at December 31, 2015</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part X, Line 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>The Foundation is exempt from taxation under Internal Revenue Code Section 501(c)(3) and California Revenue and Taxation Code Section 23701d. Generally accepted accounting principles provide accounting and disclosure guidance about positions taken by an organization in its tax returns that might be uncertain. Management has considered its tax positions and believes that all of the positions taken by the Foundation in its federal and state exempt organization tax returns are more likely than not to be sustained upon examination. The Foundation returns are subject to examination by federal and state taxing authorities, generally for three and four years, respectively, after they are filed.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part XI, Line 2d - Other Adjustments:</FormAndLineReferenceDesc>
+        <ExplanationTxt>Change in value of split-interest agreement -44,357.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <GrantRecordsMaintainedInd>1</GrantRecordsMaintainedInd>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>A Noise Within</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>3352 E Foothill Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91107</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954443878</RecipientEIN>
+        <CashGrantAmt>25800</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Alamo Breast Cancer Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 780067</AddressLine1Txt>
+          <CityNm>San Antonio</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>782780067</ZIPCd>
+        </USAddress>
+        <RecipientEIN>742692725</RecipientEIN>
+        <CashGrantAmt>5100</CashGrantAmt>
+        <PurposeOfGrantTxt>Stateside Scholarship</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>All Saints Church</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>132 N Euclid Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951980801</RecipientEIN>
+        <CashGrantAmt>86200</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Americans for Oxford</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>500 5th Ave Fl 32</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10001</ZIPCd>
+        </USAddress>
+        <RecipientEIN>521495060</RecipientEIN>
+        <CashGrantAmt>20000</CashGrantAmt>
+        <PurposeOfGrantTxt>Kellogg College</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Amnesty International USA Inc</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>5 Penn Plaza 16th Floor</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10001</ZIPCd>
+        </USAddress>
+        <RecipientEIN>520851555</RecipientEIN>
+        <CashGrantAmt>10100</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Arlington Garden in Pasadena</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>295 Arlington Dr</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91105</ZIPCd>
+        </USAddress>
+        <RecipientEIN>202219627</RecipientEIN>
+        <CashGrantAmt>5700</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Armenian Relief Society</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>517 W Glenoaks Blvd</AddressLine1Txt>
+          <CityNm>Glendale</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91202</ZIPCd>
+        </USAddress>
+        <RecipientEIN>953938295</RecipientEIN>
+        <CashGrantAmt>12500</CashGrantAmt>
+        <PurposeOfGrantTxt>Community Assistance Program</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Armory Center for the Arts</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>145 N Raymond Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91103</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952907884</RecipientEIN>
+        <CashGrantAmt>40200</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Arroyos & Foothills Conservancy</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 1</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91102</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954790045</RecipientEIN>
+        <CashGrantAmt>7750</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Art Center College of Design</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1700 Lida Street</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91103</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951921340</RecipientEIN>
+        <CashGrantAmt>28750</CashGrantAmt>
+        <PurposeOfGrantTxt>Financial Aid</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Audubon California</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>220 Montgomery St Suite 1000</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>941043443</ZIPCd>
+        </USAddress>
+        <RecipientEIN>131624102</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Berkeley Hall School Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>16000 Mulholland Drive</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90049</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951683864</RecipientEIN>
+        <CashGrantAmt>6500</CashGrantAmt>
+        <PurposeOfGrantTxt>Fountain & Garden Maintenance</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Boys & Girls Club of the LA Harbor</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1200 S Cabrillo Ave</AddressLine1Txt>
+          <CityNm>San Pedro</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90731</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951661682</RecipientEIN>
+        <CashGrantAmt>6150</CashGrantAmt>
+        <PurposeOfGrantTxt>Restricted Endowment</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Boys & Girls Clubs of Pasadena</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>3230 E Del Mar Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91107</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951643305</RecipientEIN>
+        <CashGrantAmt>16000</CashGrantAmt>
+        <PurposeOfGrantTxt>Transportation Capacity</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Boys Republic</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1907 Boys Republic Dr</AddressLine1Txt>
+          <CityNm>Chino Hills</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91709</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951647813</RecipientEIN>
+        <CashGrantAmt>10250</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Caltech</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>MC 5-32</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91125</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951643307</RecipientEIN>
+        <CashGrantAmt>12965</CashGrantAmt>
+        <PurposeOfGrantTxt>SURF</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Cancer Support Community Pasadena</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>200 E Del Mar Blvd 118</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91105</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954201985</RecipientEIN>
+        <CashGrantAmt>18000</CashGrantAmt>
+        <PurposeOfGrantTxt>Office Relocation Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Caolan John</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>523 E Mount Curve Ave</AddressLine1Txt>
+          <CityNm>Altadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91001</ZIPCd>
+        </USAddress>
+        <RecipientEIN>616945441</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Fefferman Scholarship Award</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Casa de las Amigas</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>160 N El Molino Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952513421</RecipientEIN>
+        <CashGrantAmt>25100</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Castilleja School</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1310 Bryant St</AddressLine1Txt>
+          <CityNm>Palo Alto</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94301</ZIPCd>
+        </USAddress>
+        <RecipientEIN>940373222</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Church Divinity School of the Pacific</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2451 Ridge Road</AddressLine1Txt>
+          <CityNm>Berkely</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94709</ZIPCd>
+        </USAddress>
+        <RecipientEIN>941156508</RecipientEIN>
+        <CashGrantAmt>11000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Church Street Historic Foundation Inc</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>59 Church Street</AddressLine1Txt>
+          <CityNm>Charleston</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>29401</ZIPCd>
+        </USAddress>
+        <RecipientEIN>576017094</RecipientEIN>
+        <CashGrantAmt>19000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>City of Hope - Los Angeles</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1055 Wilshire Blvd 1200</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90017</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951683875</RecipientEIN>
+        <CashGrantAmt>10100</CashGrantAmt>
+        <PurposeOfGrantTxt>Crib for Infant Cancer Unit</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Club 21 Learning & Resource Center</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>539 N Lake Avenue</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+        <RecipientEIN>262887301</RecipientEIN>
+        <CashGrantAmt>8227</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>College Access Plan</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>871 E Washington Blvd Suite 207</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91104</ZIPCd>
+        </USAddress>
+        <RecipientEIN>208371402</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Education Initiative Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Community Foundation of Teton Valley</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 1523</AddressLine1Txt>
+          <CityNm>Driggs</CityNm>
+          <StateAbbreviationCd>ID</StateAbbreviationCd>
+          <ZIPCd>83422</ZIPCd>
+        </USAddress>
+        <RecipientEIN>830308856</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>Tin Cup Challenge</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Community Partners</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1000 N Alameda Street Suite 240</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90012</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954302067</RecipientEIN>
+        <CashGrantAmt>24753</CashGrantAmt>
+        <PurposeOfGrantTxt>Steam Coders</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Crystal Cove Alliance</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>35 Crystal Cove</AddressLine1Txt>
+          <CityNm>Newport Coast</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92657</ZIPCd>
+        </USAddress>
+        <RecipientEIN>330878633</RecipientEIN>
+        <CashGrantAmt>19000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>CSU Channel Islands Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>One University Drive</AddressLine1Txt>
+          <CityNm>Camarillo</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>930128599</ZIPCd>
+        </USAddress>
+        <RecipientEIN>770433230</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>Henry L. Lacayo Institute for Workforce & Community</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Danny's Farm</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>3241 Crestford Drive</AddressLine1Txt>
+          <CityNm>Altadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91001</ZIPCd>
+        </USAddress>
+        <RecipientEIN>800195821</RecipientEIN>
+        <CashGrantAmt>10100</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Descanso Gardens</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1418 Descanso Drive</AddressLine1Txt>
+          <CityNm>La Canada</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91011</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952511202</RecipientEIN>
+        <CashGrantAmt>9100</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Doctors Without Borders</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>333 Seventh Ave 2nd Floor</AddressLine1Txt>
+          <CityNm>New York City</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>100015004</ZIPCd>
+        </USAddress>
+        <RecipientEIN>133433452</RecipientEIN>
+        <CashGrantAmt>17200</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Door of Hope</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 90455</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91109</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954044568</RecipientEIN>
+        <CashGrantAmt>26700</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Earthjustice</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>50 California St Suite 500</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>941114608</ZIPCd>
+        </USAddress>
+        <RecipientEIN>941730465</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>ECPAC - Friends In Deed</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 41125</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91114</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951644608</RecipientEIN>
+        <CashGrantAmt>4700</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Emily Griffith Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1860 Lincoln St Suite 605</AddressLine1Txt>
+          <CityNm>Denver</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>80203</ZIPCd>
+        </USAddress>
+        <RecipientEIN>841169001</RecipientEIN>
+        <CashGrantAmt>50000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Episcopal High School</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1200 N Quaker Lane</AddressLine1Txt>
+          <CityNm>Alexandria</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>22302</ZIPCd>
+        </USAddress>
+        <RecipientEIN>540506326</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Episcopal Relief & Development</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>815 Second Ave</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10017</ZIPCd>
+        </USAddress>
+        <RecipientEIN>731635264</RecipientEIN>
+        <CashGrantAmt>5350</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Flintridge Sacred Heart Academy</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>440 Saint Katherine Drive</AddressLine1Txt>
+          <CityNm>La Canada</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91011</ZIPCd>
+        </USAddress>
+        <RecipientEIN>950739610</RecipientEIN>
+        <CashGrantAmt>21000</CashGrantAmt>
+        <PurposeOfGrantTxt>Building Fund and/or General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Foothill Creative Arts Group</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>108 N Baldwin Ave</AddressLine1Txt>
+          <CityNm>Sierra Madre</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>910241966</ZIPCd>
+        </USAddress>
+        <RecipientEIN>956092528</RecipientEIN>
+        <CashGrantAmt>9480</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Grandview Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 40375</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91114</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952569077</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Hopeful Hearts</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>3187 Airway Avenue Unit C</AddressLine1Txt>
+          <CityNm>Costa Mesa</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92626</ZIPCd>
+        </USAddress>
+        <RecipientEIN>262270916</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Hotchkiss School</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>11 Interlaken Road</AddressLine1Txt>
+          <CityNm>Lakeville</CityNm>
+          <StateAbbreviationCd>CT</StateAbbreviationCd>
+          <ZIPCd>06039</ZIPCd>
+        </USAddress>
+        <RecipientEIN>060647018</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>The Hotchkiss Class of 2007 Scholarship</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Huntington Memorial Hospital</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>100 W California Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951644036</RecipientEIN>
+        <CashGrantAmt>136525</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Icthus International</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 94055</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91109</ZIPCd>
+        </USAddress>
+        <RecipientEIN>330149822</RecipientEIN>
+        <CashGrantAmt>6400</CashGrantAmt>
+        <PurposeOfGrantTxt>Icthus Next</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Impact Drug & Alcohol Treatment Center</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1680 N Fair Oaks Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91103</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952769659</RecipientEIN>
+        <CashGrantAmt>26500</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Innovate Pasadena</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>60 N San Gabriel Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91107</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954825583</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>International Association for Human Values</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2401 15th Street NW</AddressLine1Txt>
+          <CityNm>Washington</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20009</ZIPCd>
+        </USAddress>
+        <RecipientEIN>522178069</RecipientEIN>
+        <CashGrantAmt>25000</CashGrantAmt>
+        <PurposeOfGrantTxt>Project Welcome Home Troops</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Krikor Ailanjian</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1515 Atchison St</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91104</ZIPCd>
+        </USAddress>
+        <RecipientEIN>605117976</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Fefferman Scholarship Award</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>La Canada Presbyterian Church</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>626 Foothill Blvd</AddressLine1Txt>
+          <CityNm>La Canada</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91011</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951765156</RecipientEIN>
+        <CashGrantAmt>30862</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>La Salle High School</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>3880 E Sierra Madre Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>911071996</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954480979</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Las Madrinas</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>Department 6778</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>900846778</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951959907</RecipientEIN>
+        <CashGrantAmt>20750</CashGrantAmt>
+        <PurposeOfGrantTxt>Las Madrinas Endowment</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Levitt Pavilion - Greater Los Angeles & Pasadena</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1499 Huntington Drive Suite 305</AddressLine1Txt>
+          <CityNm>South Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91030</ZIPCd>
+        </USAddress>
+        <RecipientEIN>810591705</RecipientEIN>
+        <CashGrantAmt>24950</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Lewis Watson</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>425 E Mendocino Street</AddressLine1Txt>
+          <CityNm>Altadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91001</ZIPCd>
+        </USAddress>
+        <RecipientEIN>564295814</RecipientEIN>
+        <CashGrantAmt>25000</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Fefferman Award</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Library Foundation of Los Angeles</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>630 W Fifth Street</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90071</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954368250</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Lincoln Training Center</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2643 Loma Ave</AddressLine1Txt>
+          <CityNm>South El Monte</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91733</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952276055</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Los Angeles Children's Chorus (LACC)</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>585 E Colorado Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954431730</RecipientEIN>
+        <CashGrantAmt>6400</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Los Angeles Master Chorale</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>135 N Grand Ave</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90012</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952315682</RecipientEIN>
+        <CashGrantAmt>33000</CashGrantAmt>
+        <PurposeOfGrantTxt>Genreal Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Los Angeles Sports Council Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>350 S Bixel Street</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90017</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954306740</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Loyola High School</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1901 Venice Blvd</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>900064496</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951664109</RecipientEIN>
+        <CashGrantAmt>5100</CashGrantAmt>
+        <PurposeOfGrantTxt>Basketball Team</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Mary Star of the Sea Parish</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>870 W 8th Street</AddressLine1Txt>
+          <CityNm>San Pedro</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90731</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951786943</RecipientEIN>
+        <CashGrantAmt>20000</CashGrantAmt>
+        <PurposeOfGrantTxt>Capital Repair</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Marymount California University</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>30800 Ranch Palos Verdes Drive E</AddressLine1Txt>
+          <CityNm>Rancho Palos Verdes</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90275</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952113260</RecipientEIN>
+        <CashGrantAmt>25000</CashGrantAmt>
+        <PurposeOfGrantTxt>Scholarship Fund</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Merkos Linyonei Chinuch Lubavitch</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>6619 Sardis Road</AddressLine1Txt>
+          <CityNm>Charlotte</CityNm>
+          <StateAbbreviationCd>NC</StateAbbreviationCd>
+          <ZIPCd>28270</ZIPCd>
+        </USAddress>
+        <RecipientEIN>581482114</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>ZABS Place</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Mission Hospital Regional Medical Ctr</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>27700 Medical Center Road</AddressLine1Txt>
+          <CityNm>Mission Viejo</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92691</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951643360</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Missionary Society of St Paul</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>800 Timothy Road</AddressLine1Txt>
+          <CityNm>Athens</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>77230</ZIPCd>
+        </USAddress>
+        <RecipientEIN>582637330</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>Missionary Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Mothers' Club Family Learning Center</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>980 N Fair Oaks Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91103</ZIPCd>
+        </USAddress>
+        <RecipientEIN>237275324</RecipientEIN>
+        <CashGrantAmt>6050</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Mount St Mary's University</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>10 Chester Place</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90007</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951641455</RecipientEIN>
+        <CashGrantAmt>50000</CashGrantAmt>
+        <PurposeOfGrantTxt>Scholarship Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>MPN Research Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>180 N Michigan Ave Suite 1870</AddressLine1Txt>
+          <CityNm>Chicago</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60601</ZIPCd>
+        </USAddress>
+        <RecipientEIN>364330967</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>Research</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>National Park Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1201 Eye Street NW Suite 550B</AddressLine1Txt>
+          <CityNm>Washington</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20005</ZIPCd>
+        </USAddress>
+        <RecipientEIN>521086761</RecipientEIN>
+        <CashGrantAmt>25100</CashGrantAmt>
+        <PurposeOfGrantTxt>Centennial Campaign</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Natural History Museum of LA County</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>900 Exposition Blvd</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90007</ZIPCd>
+        </USAddress>
+        <RecipientEIN>956132185</RecipientEIN>
+        <CashGrantAmt>7700</CashGrantAmt>
+        <PurposeOfGrantTxt>Dinosaur Institute</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Nature Conservancy California</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>201 Mission Street 4th Floor</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94105</ZIPCd>
+        </USAddress>
+        <RecipientEIN>205797732</RecipientEIN>
+        <CashGrantAmt>15000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Neighborhood Church</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>301 N Orange Grove Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91103</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951684074</RecipientEIN>
+        <CashGrantAmt>9720</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Notes for Education</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>51 Blackberry Drive</AddressLine1Txt>
+          <CityNm>Napa</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94558</ZIPCd>
+        </USAddress>
+        <RecipientEIN>272087987</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Partnership for Success</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>324 Madeline Drive</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91105</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951644047</RecipientEIN>
+        <CashGrantAmt>20000</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Education Initiative Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Art Alliance</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>464 E Walnut 226</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+        <RecipientEIN>237429349</RecipientEIN>
+        <CashGrantAmt>11100</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Arts Council - Wisdom Arts Laboratory</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>520 E Orange Grove Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>911044351</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952540759</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>Community Fridays</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena City College Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1570 E Colorado Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91106</ZIPCd>
+        </USAddress>
+        <RecipientEIN>953434226</RecipientEIN>
+        <CashGrantAmt>35233</CashGrantAmt>
+        <PurposeOfGrantTxt>Project LEAP</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Conservatory of Music</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>100 N Hill Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91106</ZIPCd>
+        </USAddress>
+        <RecipientEIN>953900207</RecipientEIN>
+        <CashGrantAmt>25309</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Delta Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 93552</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91109</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954502691</RecipientEIN>
+        <CashGrantAmt>5523</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Educational Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>351 S Hudson Ave Room 153</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91109</ZIPCd>
+        </USAddress>
+        <RecipientEIN>237149451</RecipientEIN>
+        <CashGrantAmt>85900</CashGrantAmt>
+        <PurposeOfGrantTxt>PUSD Physical Education Program</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Heritage</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>651 S Saint John Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>911052913</ZIPCd>
+        </USAddress>
+        <RecipientEIN>953122313</RecipientEIN>
+        <CashGrantAmt>39487</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Humane Society & SPCA</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>361 S Raymond Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91105</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951643344</RecipientEIN>
+        <CashGrantAmt>12000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Meals on Wheels</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>54 N Oakland Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+        <RecipientEIN>956111667</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Senior Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Senior Center</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>85 E Holly Street</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91103</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952085393</RecipientEIN>
+        <CashGrantAmt>38500</CashGrantAmt>
+        <PurposeOfGrantTxt>Pasadena Senior Olympic Games</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Symphony Association</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2 N Lake Ave Suite 1080</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+        <RecipientEIN>956002375</RecipientEIN>
+        <CashGrantAmt>12600</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Pasadena Village</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>236 W Mountain Street Suite 104</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91103</ZIPCd>
+        </USAddress>
+        <RecipientEIN>453773041</RecipientEIN>
+        <CashGrantAmt>5350</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Senior Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Planned Parenthood of Pasadena & SGV</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2333 N Lake Ave 2nd Floor</AddressLine1Txt>
+          <CityNm>Altadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91001</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951916050</RecipientEIN>
+        <CashGrantAmt>14650</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Polytechnic School</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1030 E California Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>911069972</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951641456</RecipientEIN>
+        <CashGrantAmt>121507</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Professional Child Development Associates</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>620 North Lake Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91101</ZIPCd>
+        </USAddress>
+        <RecipientEIN>261767757</RecipientEIN>
+        <CashGrantAmt>25250</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Public Works Inc</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>90 N Daisy Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91107</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954686873</RecipientEIN>
+        <CashGrantAmt>36000</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Rainforest Alliance</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>665 Broadway Suite 500</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10012</ZIPCd>
+        </USAddress>
+        <RecipientEIN>133377893</RecipientEIN>
+        <CashGrantAmt>7500</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Rancho Los Alamitos Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>6400 Bixby Hill Road</AddressLine1Txt>
+          <CityNm>Long Beach</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90815</ZIPCd>
+        </USAddress>
+        <RecipientEIN>330083942</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Reading Partners</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>3452 E Foothill Blvd Suite 310</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91107</ZIPCd>
+        </USAddress>
+        <RecipientEIN>770568469</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Education Initiative Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Ronald McDonald House - Los Angeles</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>4560 Fountain Ave</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90029</ZIPCd>
+        </USAddress>
+        <RecipientEIN>953167869</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Rose Bowl Aquatics Center</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>360 N Arroyo Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91103</ZIPCd>
+        </USAddress>
+        <RecipientEIN>953994788</RecipientEIN>
+        <CashGrantAmt>25200</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Rose Bowl Legacy Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1001 Rose Bowl Drive</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91103</ZIPCd>
+        </USAddress>
+        <RecipientEIN>010972999</RecipientEIN>
+        <CashGrantAmt>11000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Royal Family KIDS</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>3000 W McArthur Blvd Suite 412</AddressLine1Txt>
+          <CityNm>Santa Ana</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92704</ZIPCd>
+        </USAddress>
+        <RecipientEIN>330380021</RecipientEIN>
+        <CashGrantAmt>7493</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Saint John's Health Center</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2121 Santa Monica Blvd</AddressLine1Txt>
+          <CityNm>Santa Monica</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90404</ZIPCd>
+        </USAddress>
+        <RecipientEIN>956100079</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>Research Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Salvation Army Los Angeles</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 93002</AddressLine1Txt>
+          <CityNm>Long Beach</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>908093002</ZIPCd>
+        </USAddress>
+        <RecipientEIN>132923701</RecipientEIN>
+        <CashGrantAmt>6050</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Salvation Army Pasadena Tabernacle</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>960 E Walnut Street</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>911061446</ZIPCd>
+        </USAddress>
+        <RecipientEIN>941156347</RecipientEIN>
+        <CashGrantAmt>5588</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>San Francisco Opera Association</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>301 Van Ness Ave</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>941024509</ZIPCd>
+        </USAddress>
+        <RecipientEIN>940836240</RecipientEIN>
+        <CashGrantAmt>15500</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>San Gabriel Valley Habitat for Humanity</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>400 S Irwindale Ave</AddressLine1Txt>
+          <CityNm>Azusa</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91702</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954244947</RecipientEIN>
+        <CashGrantAmt>25500</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Santa Anita Church - Barnhart School</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>240 West Colorado Blvd</AddressLine1Txt>
+          <CityNm>Arcadia</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91007</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951904080</RecipientEIN>
+        <CashGrantAmt>7500</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Sherman E Burroughs High School</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>500 E French Ave</AddressLine1Txt>
+          <CityNm>Ridgecrest</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>93555</ZIPCd>
+        </USAddress>
+        <RecipientEIN>956105150</RecipientEIN>
+        <CashGrantAmt>8000</CashGrantAmt>
+        <PurposeOfGrantTxt>Educational Equipment & Supplies</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Side Street Projects</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 90432</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91109</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954395168</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>Kinetic Creatures at Washington Elementary</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Smith College</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 340029</AddressLine1Txt>
+          <CityNm>Boston</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>022410429</ZIPCd>
+        </USAddress>
+        <RecipientEIN>042103649</RecipientEIN>
+        <CashGrantAmt>7200</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>South Pasadena High School-ASB</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1401 Fremont Ave</AddressLine1Txt>
+          <CityNm>South Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91030</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954199658</RecipientEIN>
+        <CashGrantAmt>9300</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Scholarships</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Southern California Public Radio - KPCC</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>474 S Raymond Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91105</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954765734</RecipientEIN>
+        <CashGrantAmt>56915</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Spirit Awakening Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>6125 S La Cienega Blvd</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90056</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954585425</RecipientEIN>
+        <CashGrantAmt>9845</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>St Philip the Evangelist Episcopal Church</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2800 Stanford Ave</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>900112018</ZIPCd>
+        </USAddress>
+        <CashGrantAmt>5800</CashGrantAmt>
+        <PurposeOfGrantTxt>Hunger Ministries</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>St Edmunds Episcopal Church</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1175 San Gabriel Blvd</AddressLine1Txt>
+          <CityNm>San Marino</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91108</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951816042</RecipientEIN>
+        <CashGrantAmt>60000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>St John Episcopal Church</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>125 Canterbury Drive</AddressLine1Txt>
+          <CityNm>Aptos</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95003</ZIPCd>
+        </USAddress>
+        <CashGrantAmt>18000</CashGrantAmt>
+        <PurposeOfGrantTxt>Capital Campaign</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Stanford University</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 20466</AddressLine1Txt>
+          <CityNm>Stanford</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94309</ZIPCd>
+        </USAddress>
+        <RecipientEIN>941156365</RecipientEIN>
+        <CashGrantAmt>25100</CashGrantAmt>
+        <PurposeOfGrantTxt>Undergraduate Education</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Swarthmore College</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>500 College Ave</AddressLine1Txt>
+          <CityNm>Swarthmore</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>19081</ZIPCd>
+        </USAddress>
+        <RecipientEIN>231352683</RecipientEIN>
+        <CashGrantAmt>5500</CashGrantAmt>
+        <PurposeOfGrantTxt>Alumni Fund</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Tenth Church of Christ Scientist</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1133 S Bundy Drive</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90049</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952288520</RecipientEIN>
+        <CashGrantAmt>7000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>The Angeles Clinic Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2001 Santa Monica Blvd Suite 560W</AddressLine1Txt>
+          <CityNm>Santa Monica</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90404</ZIPCd>
+        </USAddress>
+        <RecipientEIN>582672842</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>The Frostig Center</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>971 N Altadena Dr</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91107</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952098575</RecipientEIN>
+        <CashGrantAmt>17500</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>The Huntington Library & Botanical Gardens</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1151 Oxford Road</AddressLine1Txt>
+          <CityNm>San Marino</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91108</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951644589</RecipientEIN>
+        <CashGrantAmt>90610</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>The Mayo Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>200 First St SW</AddressLine1Txt>
+          <CityNm>Rochester</CityNm>
+          <StateAbbreviationCd>MN</StateAbbreviationCd>
+          <ZIPCd>55905</ZIPCd>
+        </USAddress>
+        <RecipientEIN>411506440</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>Research Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>The UCLA Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>10920 Wilshire Blvd Suite 900</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90024</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952250801</RecipientEIN>
+        <CashGrantAmt>107350</CashGrantAmt>
+        <PurposeOfGrantTxt>Philanthropy as Civic Engagement</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Union Station Homeless Services</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>825 E Orange Grove Blvd</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91104</ZIPCd>
+        </USAddress>
+        <RecipientEIN>953958741</RecipientEIN>
+        <CashGrantAmt>45600</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>University of Mississippi Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>406 University Ave</AddressLine1Txt>
+          <CityNm>Oxford</CityNm>
+          <StateAbbreviationCd>MS</StateAbbreviationCd>
+          <ZIPCd>386554389</ZIPCd>
+        </USAddress>
+        <RecipientEIN>237310293</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>UM Museum - Rowan Oak</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>University of Virginia Darden School</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 40087</AddressLine1Txt>
+          <CityNm>Charlottesville</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>229044807</ZIPCd>
+        </USAddress>
+        <RecipientEIN>546046419</RecipientEIN>
+        <CashGrantAmt>15000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>USC - Athletics</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>3501 Watt Way HER 203A</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90089</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951642394</RecipientEIN>
+        <CashGrantAmt>100000</CashGrantAmt>
+        <PurposeOfGrantTxt>Womens Basketball</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>USC Keck School of Medicine</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1975 Zonal Ave KAM 300</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>900899026</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951642394</RecipientEIN>
+        <CashGrantAmt>5000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>USC Norris Comprehensive Cancer Center</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1441 Eastlake Ave Room 8302</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90033</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951642394</RecipientEIN>
+        <CashGrantAmt>68950</CashGrantAmt>
+        <PurposeOfGrantTxt>Gastrointestinal Colorectal Cancer Research</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>USC Thornton School of Music</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>University of Southern California</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>900890851</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951642394</RecipientEIN>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>USC</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>3501 Watt Way HER 203A</AddressLine1Txt>
+          <CityNm>Los Angeles</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>900890602</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951642394</RecipientEIN>
+        <CashGrantAmt>50250</CashGrantAmt>
+        <PurposeOfGrantTxt>Scholarship Fund</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Valley Beth Shalom</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>15739 Ventura Blvd</AddressLine1Txt>
+          <CityNm>Encino</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91436</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951890769</RecipientEIN>
+        <CashGrantAmt>12000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Ved Vignan Mahavidyapeeth</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>12 Murphy Dr</AddressLine1Txt>
+          <CityNm>Nashua</CityNm>
+          <StateAbbreviationCd>NH</StateAbbreviationCd>
+          <ZIPCd>03062</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954456218</RecipientEIN>
+        <CashGrantAmt>5008</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Villa Esperanza</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2060 E Villa Street</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91107</ZIPCd>
+        </USAddress>
+        <RecipientEIN>952148860</RecipientEIN>
+        <CashGrantAmt>52700</CashGrantAmt>
+        <PurposeOfGrantTxt>Music Program</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Waldorf School on the Roaring Fork</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>16543 Highway 82</AddressLine1Txt>
+          <CityNm>Carbondale</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81623</ZIPCd>
+        </USAddress>
+        <RecipientEIN>840717615</RecipientEIN>
+        <CashGrantAmt>6000</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Walter Hoving Home</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>127 S El Molino Ave</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>911012510</ZIPCd>
+        </USAddress>
+        <RecipientEIN>132753267</RecipientEIN>
+        <CashGrantAmt>11845</CashGrantAmt>
+        <PurposeOfGrantTxt>2015 Capital Grant</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Westridge School for Girls</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>324 Madeline Dr</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>911053399</ZIPCd>
+        </USAddress>
+        <RecipientEIN>951644047</RecipientEIN>
+        <CashGrantAmt>14600</CashGrantAmt>
+        <PurposeOfGrantTxt>Partnership for Success!</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Williams College</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>75 Park Street</AddressLine1Txt>
+          <CityNm>Williamstown</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>01267</ZIPCd>
+        </USAddress>
+        <RecipientEIN>042104847</RecipientEIN>
+        <CashGrantAmt>5200</CashGrantAmt>
+        <PurposeOfGrantTxt>Varnado Professorship Fund</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Wounded Warrior Project</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 758517</AddressLine1Txt>
+          <CityNm>Topeka</CityNm>
+          <StateAbbreviationCd>KS</StateAbbreviationCd>
+          <ZIPCd>666758517</ZIPCd>
+        </USAddress>
+        <RecipientEIN>202370934</RecipientEIN>
+        <CashGrantAmt>5050</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Young & Healthy</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO Box 93397</AddressLine1Txt>
+          <CityNm>Pasadena</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>911093397</ZIPCd>
+        </USAddress>
+        <RecipientEIN>954527969</RecipientEIN>
+        <CashGrantAmt>52064</CashGrantAmt>
+        <PurposeOfGrantTxt>General Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <GrantsOtherAsstToIndivInUSGrp>
+        <GrantTypeTxt>Scholarship</GrantTypeTxt>
+        <RecipientCnt>1</RecipientCnt>
+        <CashGrantAmt>25000</CashGrantAmt>
+      </GrantsOtherAsstToIndivInUSGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part I, Line 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>The Pasadena Community Foundation monitors the use of grant monies as follows: All agencies are verfied to be a 501c3 public charity and/or grant eligible before grants are awarded. A grant award fund agreement and/or grant letter and report worksheet are sent to the grantees. The grant award fund agreement and/or grant letter explicitly states the purpose of the grant award or restrictions of the grant and specifies expectations for compliance including use of funds, timing, policy on any unspent funds and reporting requirements. The report worksheet requests receipts for capital purchases and/or key accomplishments for program grants. This report is reviewed by PCF staff and if any discrepancies are found PCF asks the agency for reimbursement of funds inappropriately used. These reports are tracked throughout the year and agencies are disqualified for future grants if reports have not been completed. In the case of unrestricted donations to charitable organizations through donor advised funds, grant reports are not required.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <CompensationSurveyInd>X</CompensationSurveyInd>
+      <BoardOrCommitteeApprovalInd>X</BoardOrCommitteeApprovalInd>
+      <SeverancePaymentInd>0</SeverancePaymentInd>
+      <SupplementalNonqualRtrPlanInd>0</SupplementalNonqualRtrPlanInd>
+      <EquityBasedCompArrngmInd>0</EquityBasedCompArrngmInd>
+      <CompBasedOnRevenueOfFlngOrgInd>0</CompBasedOnRevenueOfFlngOrgInd>
+      <CompBsdOnRevRelatedOrgsInd>0</CompBsdOnRevRelatedOrgsInd>
+      <CompBsdNetEarnsFlngOrgInd>0</CompBsdNetEarnsFlngOrgInd>
+      <CompBsdNetEarnsRltdOrgsInd>0</CompBsdNetEarnsRltdOrgsInd>
+      <AnyNonFixedPaymentsInd>0</AnyNonFixedPaymentsInd>
+      <InitialContractExceptionInd>0</InitialContractExceptionInd>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>Jennifer DeVoll</PersonNm>
+        <TitleTxt>Executive Director</TitleTxt>
+        <BaseCompensationFilingOrgAmt>151049</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>0</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>0</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>18000</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>23292</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>192341</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+        <CompReportPrior990FilingOrgAmt>0</CompReportPrior990FilingOrgAmt>
+        <CompReportPrior990RltdOrgsAmt>0</CompReportPrior990RltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <SecuritiesPubliclyTradedGrp>
+        <NonCashCheckboxInd>X</NonCashCheckboxInd>
+        <ContributionCnt>69</ContributionCnt>
+        <NoncashContributionsRptF990Amt>3790762</NoncashContributionsRptF990Amt>
+        <MethodOfDeterminingRevenuesTxt>Market Value</MethodOfDeterminingRevenuesTxt>
+      </SecuritiesPubliclyTradedGrp>
+      <AnyPropertyThatMustBeHeldInd>0</AnyPropertyThatMustBeHeldInd>
+      <ReviewProcessUnusualNCGiftsInd>0</ReviewProcessUnusualNCGiftsInd>
+      <ThirdPartiesUsedInd>0</ThirdPartiesUsedInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part I, Column (b):</FormAndLineReferenceDesc>
+        <ExplanationTxt>Number of contributions is determined by the number of donors</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, line 11</FormAndLineReferenceDesc>
+        <ExplanationTxt>Governing Body Review of 990 Process: Audit Committee meets with outside auditor to go over the 990. Upon review, Audit Committee Chair presents any findings and leads discussions if any, and whole board approves 990 to be filed.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, line 12c</FormAndLineReferenceDesc>
+        <ExplanationTxt>PCF has board members update their conflict of interest paperwork yearly.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, line 15a</FormAndLineReferenceDesc>
+        <ExplanationTxt>Determining Compensation of Executive Director and other key employees Process: The Council on Foundation does an annual survey of salaries for non-profits throughout the nation. PCF participates in the survey. The results are compiled by the Council and distributed to all participants. A separate salary survey is conducted by the League of California Foundations. PCF also participates in this survey. Once the results have been distributed, PCF staff compiles data and presents to the Finance Committee along with overall budgets and salary recommendations for the fiscal year. The Executive Committee reviews the salary for staff in Executive session of the Board meeting.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section C, line 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>PCF provides its governing documents, conflict of interest policy, financial statements and Form 990 available to the public upon request.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part XI, line 9:</FormAndLineReferenceDesc>
+        <ExplanationTxt>Change in value of split interest agreements -44,357.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Page 1, Part B - Amended Return</FormAndLineReferenceDesc>
+        <ExplanationTxt>Form 990 has been Amended to correct the responses to Part V, Questions 8, 9a and 9b.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>
