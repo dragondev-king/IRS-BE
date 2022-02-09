@@ -4,8 +4,7 @@ class CreateFilings < ActiveRecord::Migration[7.0]
       t.references :filer, null: false, foreign_key: true
       t.float :amount
       t.string :purpose
-      t.date :tax_period_begin
-      t.date :tax_period_end
+      t.integer :tax_period
       t.references :recipient, null: false, foreign_key: true
 
       t.timestamps
