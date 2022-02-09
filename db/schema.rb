@@ -10,7 +10,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_02_08_095218) do
+ActiveRecord::Schema.define(version: 2022_02_09_174507) do
+
+  create_table "awards", force: :cascade do |t|
+    t.float "amount"
+    t.string "purpose"
+    t.integer "tax_period"
+    t.integer "filing_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["filing_id"], name: "index_awards_on_filing_id"
+  end
 
   create_table "filers", force: :cascade do |t|
     t.integer "ein"
@@ -25,9 +35,6 @@ ActiveRecord::Schema.define(version: 2022_02_08_095218) do
 
   create_table "filings", force: :cascade do |t|
     t.integer "filer_id", null: false
-    t.float "amount"
-    t.string "purpose"
-    t.integer "tax_period"
     t.integer "recipient_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
@@ -47,5 +54,4 @@ ActiveRecord::Schema.define(version: 2022_02_08_095218) do
   end
 
   add_foreign_key "filings", "filers"
-  add_foreign_key "filings", "recipients"
 end
