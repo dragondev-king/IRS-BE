@@ -27,8 +27,7 @@ ActiveRecord::Schema.define(version: 2022_02_08_095218) do
     t.integer "filer_id", null: false
     t.float "amount"
     t.string "purpose"
-    t.date "tax_period_begin"
-    t.date "tax_period_end"
+    t.integer "tax_period"
     t.integer "recipient_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
