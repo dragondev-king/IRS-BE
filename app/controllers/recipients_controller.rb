@@ -7,8 +7,8 @@ class RecipientsController < ApplicationController
         #     @recipients = Recipient.where(state: params[:state])
         # end
         # render json: @recipients
-        filing_ids = Filing.where(amount: params[:amount])
-        render json: filing_ids
+        filings = Filing.where(amount: params[:amount])
+        render json: filings
     end
 
     #GET /recipients/:id
