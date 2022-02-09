@@ -55,8 +55,11 @@ task :parse_and_store, [:file_name] => :environment do |t, args|
         amount = safe_data(table_node.elements['AmountOfCashGrant'] || table_node.elements['CashGrantAmt'])
         purpose = safe_data(table_node.elements['PurposeOfGrant'] || table_node.elements['PurposeOfGrantTxt'])
 
-        filing = Filing.new(filer_id: filer.id, amount: amount, purpose: purpose, tax_period: tax_period, recipient_id: recipient.id)
+        filing = Filing.new(filer_id: filer.id, recipient_id: recipient.id)
         filing.save
+
+        award = Award.new(amount: amount, purpose: purpose, tax_period: tax_period, filing_id: filing.id)
+        award.save
     end
     puts 'filings and recipients information saved'
 
