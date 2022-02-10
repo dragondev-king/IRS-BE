@@ -3,7 +3,10 @@ class FilingsController < ApplicationController
     #GET /filings?filer=xxx
     def index
 
-        @filings = Filing.where(filer_id: params[:filer_id])
+        @filings = Filing.all
+        if params[:filer]
+            @filings = Filing.where(filer_id: params[:filer])
+        end
         render json: @filings
     end
 
