@@ -3,7 +3,7 @@ class FilersController < ApplicationController
     #GET /filers
     def index
         @filers = Filer.all
-        render json: params
+        render json: @filers
     end
 
     #GET /filers/:id

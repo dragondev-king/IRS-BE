@@ -9,4 +9,10 @@ class AwardsController < ApplicationController
         render json: @awards
     end
 
+    #GET /awards/:id
+    def show
+        @award = Award.find(params[:id])
+        render json: @award
+    end
+
 end

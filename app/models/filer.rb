@@ -1,3 +1,3 @@
 class Filer < ApplicationRecord
-    has_many :filings, class_name: "filing", foreign_key: "reference_id"
+    has_many :filings
 end
