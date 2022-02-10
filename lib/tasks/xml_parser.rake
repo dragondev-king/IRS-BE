@@ -1,5 +1,5 @@
 def safe_data(val)
-    return val ? val.text: ''
+    return val ? val.text.strip: ''
 end
 
 desc "Parse XML and store."
@@ -26,7 +26,7 @@ task :parse_and_store, [:file_name] => :environment do |t, args|
     f_address = safe_data(f_address_node.elements['AddressLine1'] || f_address_node.elements['AddressLine1Txt'])
     f_city = safe_data(f_address_node.elements['City'] || f_address_node.elements['CityNm'])
     f_state = safe_data(f_address_node.elements['State'] || f_address_node.elements['StateAbbreviationCd'])
-    f_zipcode = safe_data(f_address_node.elements['ZIPCode'] || f_address_node['ZIPCd'])
+    f_zipcode = safe_data(f_address_node.elements['ZIPCode'] || f_address_node.elements['ZIPCd'])
 
     #store filer information into Filer table
     filer = Filer.new(ein: f_ein, name: f_name, address: f_address, city: f_city, state: f_state, zipcode: f_zipcode)
