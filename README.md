@@ -1,24 +1,16 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
 * Ruby version
+ruby-3.0.3
 
-* System dependencies
+This project' goal is to parse the xml and store the results into table, and provide API endpoints.
+It provides RESTful API.
 
-* Configuration
 
-* Database creation
+- To create tables, you need to migrate
+$rails db:migrate
 
-* Database initialization
+- After tables are created, you need to parse XML files and store the results into tables.
+  These course could be performed by following rake command.
+ex: $rake parse_and_store['sample_data/1.xml']
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Start server
+$rails server
