@@ -12,7 +12,10 @@ class RecipientsController < ApplicationController
         if params[:award]
             @recipients = @recipients.where(awards: {id: params[:award]})
         end
-        render json: @recipients
+        if params[:amount]
+            @recipients = @recipients.where(awards: {amount: params[:amount]})
+        end
+        render json: @recipients.group('ein')
     end
 
     #GET /recipients/:id
