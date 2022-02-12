@@ -7,7 +7,7 @@ class FilingsController < ApplicationController
         if params[:filer]
             @filings = @filings.where(filer_id: params[:filer])
         end
-        render json: @filings
+        render json: @filings.order(:id)
     end
 
     #GET /filings/:id
